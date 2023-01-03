@@ -83,5 +83,5 @@ while True:
             old_ranks[i] = new_ranks[i]
             old_pps[i] = new_pps[i]
     if changed == False:
-        print('No changes.') # Making sure it works, instead of starinng at blank screen
+        print('No changes.') # Making sure it works, instead of staring at blank screen
     time.sleep(15) # wait 15s before checking again
